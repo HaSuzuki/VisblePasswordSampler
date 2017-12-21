@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VisiblePassword</string>
+
+    <string name="password">PASSWORD</string>
+    <string name="visible_password">パスワードを表示する</string>
+    <string name="pattern0">Pattern 0</string>
+    <string name="pattern1">Pattern 1</string>
+    <string name="pattern2">Pattern 2</string>
+</resources>
