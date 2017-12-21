@@ -2,6 +2,8 @@
 
 パスワード表示のいろいろを蓄えていく
 
+<img src="https://raw.githubusercontent.com/wiki/HaSuzuki/VisblePasswordSampler/visiblepassword.gif" width=40%>
+
 ### Pattern 0
 
 TextInputLayout デフォルト機能(Password Visibility Toggle)
